@@ -1,4 +1,4 @@
-- [ ] A Full stack Project
+- [ ] SQL
 - [ ] https://frontendmasters.com/courses/computer-science-v2/
 - [ ] https://frontendmasters.com/courses/linux-command-line/
 - [ ] https://frontendmasters.com/courses/complete-intro-containers-v2/
