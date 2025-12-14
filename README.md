@@ -1,5 +1,5 @@
 - [ ] SQL
-- [ ] https://frontendmasters.com/courses/computer-science-v2/
+- [ ] https://frontendmasters.com/courses/computer-science-v2/ - https://btholt.github.io/complete-intro-to-computer-science/
 - [ ] https://frontendmasters.com/courses/linux-command-line/
 - [ ] https://frontendmasters.com/courses/complete-intro-containers-v2/
 - [ ] https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/?kw=backend&src=sac
